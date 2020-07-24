@@ -14,3 +14,4 @@ This is a Python program created for screen recording.
 
 ## 최철환 
 ## Representative email : cch01024857239@gmail.com
+images/CC_BY_NC.jpg
