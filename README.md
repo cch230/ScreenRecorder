@@ -1,7 +1,7 @@
 # 모니터 화면 녹화
 # ScreenRecorder
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cch230/" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cch230/ScreenRecorder" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; pointer-events: auto;">
 
 화면 녹화를 위해 만든 파이썬 프로그램입니다.
 
